@@ -1,0 +1,10 @@
+{
+  "title": "Cruise Finder Tool",
+  "description": "A powerful tool that assists users in finding the best cruises based on their preferences and requirements.",
+  "version": "1.0.0",
+  "platformVersion": "15.0.0",
+  "published_with": "craftwave",
+  "authentication": {
+    "type": "oauth2"
+  }
+}
